@@ -10,7 +10,7 @@ webpConverter /home/user/Pictures
 
 ## Limitations
 1. The script is not recursive.
-2. You have to have ffmpeg installed on your system and included in your PATH.
+2. You need ffmpeg installed on your system and included in your PATH.
 
 ## Building the program
 ```bash
